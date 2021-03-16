@@ -19,4 +19,6 @@ A Launcher for launching multiple gaming launchers
 	
 	- The target location of the chosen file will reset if you click on "Select" -> choose any one, then you click "Cancel".
 
+	- Please keep all the .lua files and dont change anything with them, because if you do so, the application will crash.
+
 6- Thank you, Enjoy using my Launcher!!
