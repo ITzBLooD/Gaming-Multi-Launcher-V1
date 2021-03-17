@@ -1,4 +1,4 @@
-# Gaming-Multi-Launcher-Beta V1.1
+# Gaming-Multi-Launcher-Beta V1.1 (Updated on 17/3/2021 2:30PM GMT+4)
 A Launcher for launching multiple gaming launchers
 
 1- My Multi-App Launcher serves the purpose of saving time launching applications, as well as saving desktop space. 
