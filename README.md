@@ -1,7 +1,8 @@
-# Gaming-Multi-Launcher-V1
+# Gaming-Multi-Launcher-Beta V1.1
 A Launcher for launching multiple gaming launchers
 
-1- My Multi-App Launcher serves the purpose of saving time launching applications, as well as saving desktop space. It's developed to simplify our lives as gamers.
+1- My Multi-App Launcher serves the purpose of saving time launching applications, as well as saving desktop space. 
+   It's developed to simplify our lives as gamers by combining many launchers we use as gamers in one application.
 
 3- This launcher is my first published app, this means that you might find issues or bugs while using it.
 
@@ -19,6 +20,8 @@ A Launcher for launching multiple gaming launchers
 	
 	- The target location of the chosen file will reset if you click on "Select" -> choose any one, then you click "Cancel".
 
-	- Please keep all the .lua files and dont change anything with them, because if you do so, the application will crash.
+6- Some fixes in V1.1:
+	- Fixed the isse of crashing when you accidentally delete the "Paths" folder by re-creating the folder on the next launch 
+	  and restarting the launcher automatically for you.
 
-6- Thank you, Enjoy using my Launcher!!
+7- Thank you, Enjoy using my Launcher!!
