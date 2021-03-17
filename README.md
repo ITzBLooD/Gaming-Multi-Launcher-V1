@@ -20,8 +20,10 @@ A Launcher for launching multiple gaming launchers
 	
 	- The target location of the chosen file will reset if you click on "Select" -> choose any one, then you click "Cancel".
 
-6- Some fixes in V1.1:
+6- V1.1 Update notes:
+
 	- Fixed the isse of crashing when you accidentally delete the "Paths" folder by re-creating the folder on the next launch 
 	  and restarting the launcher automatically for you.
+	- Removed the Welcome message just not to annoy the user all over again and again.
 
 7- Thank you, Enjoy using my Launcher!!
