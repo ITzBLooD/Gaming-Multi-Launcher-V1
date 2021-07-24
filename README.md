@@ -22,7 +22,7 @@ A Launcher for launching multiple gaming launchers
 
 6- V1.1 Update notes:
 
-	- Fixed the isse of crashing when you accidentally delete the "Paths" folder by re-creating the folder on the next launch 
+	- Fixed the issue of crashing when you accidentally delete the "Paths" folder by re-creating the folder on the next launch 
 	  and restarting the launcher automatically for you.
 	- Removed the Welcome message just not to annoy the user all over again and again.
 
